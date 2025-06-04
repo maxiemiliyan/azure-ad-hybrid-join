@@ -37,7 +37,7 @@ To perform a manual Hybrid Azure AD Join setup using:
 
 ---
 
-### ✅ Step 2: Create a New Forest and Domain
+### Step 2: Create a New Forest and Domain
 
 1. Choose **Add a new forest** option.
 2. Enter **maxhome.com** as the root domain name.
@@ -45,7 +45,7 @@ To perform a manual Hybrid Azure AD Join setup using:
 
 ---
 
-### ✅ Step 3: Create Domain Users
+### Step 3: Create Domain Users
 
 1. Go to **Tools > Active Directory Users and Computers**.
 2. Right-click on **Users** and select **New > User**.
@@ -55,7 +55,7 @@ To perform a manual Hybrid Azure AD Join setup using:
 
 ---
 
-### ✅ Step 4: Install Azure AD Connect
+### Step 4: Install Azure AD Connect
 
 1. Search for **"Azure AD Connect"** in your browser.
 2. Go to **Microsoft Entra Connect** and download the provisioning agent.
